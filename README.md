@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @Sonali501-cmd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+↓
 
-<!---
-Sonali501-cmd/Sonali501-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏢 Job Portal System (Java Swing + MySQL)
+
+A complete Job Portal GUI application built using:
+
+Java Swing (Desktop UI)
+
+MySQL (XAMPP Localhost)
+
+JDBC
+
+Single-file GUI + Database Manager + Service Layer
+
+This system supports:
+
+✔ Employer Registration
+✔ Job Seeker Registration
+✔ Login System
+✔ Employer Job Posting
+✔ Job Applications
+✔ Admin Panel
+✔ Auto-created SQL tables
+
+🚀 Features
+👤 User Roles
+
+Admin – manages users & jobs
+
+Employer – posts jobs and manages applications
+
+Job Seeker – browses jobs & applies
+
+🛠 Technical Features
+
+Java Swing GUI
+
+MySQL database
+
+JDBC CRUD operations
+
+Remember-me login
+
+Auto table creation
+
+Single .java file for full project
